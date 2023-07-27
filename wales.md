@@ -1,4 +1,5 @@
 # Mountains in Wales
 
-- Yr Wyddfa
+- Yr Wyddfa Fan Brycheiniog
+- Glyder Fawr
 - Fan Brychriniog
