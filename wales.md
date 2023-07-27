@@ -2,3 +2,4 @@
 
 - Yr Wyddfa Fan Brycheiniog
 - Glyder Fawr
+- Fan Brychriniog
