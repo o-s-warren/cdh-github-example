@@ -1,2 +1,0 @@
-- Ben Nevis
-- Suilven
